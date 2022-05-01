@@ -1,0 +1,70 @@
+h1 {
+    font-family: Verdana;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    background-image: url(Fundo.jpg);
+    background-repeat: no-repeat;
+    height: 60px;
+    background-size: 100%;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    font-size: 14px;
+}
+
+.Descrição {
+    text-align: center;
+}
+
+.next {
+    border-radius: 25%;
+    padding: 10px;
+    border: 2px solid black;
+    margin-top: 20px;
+    width: 2%;
+}
+
+body {
+    margin-top: 50px;
+    background-color: blue;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+    transition: 300ms;
+}
+
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}
+
+.roda {
+    text-align: center;
+    overflow: hidden;
+    background-color: rgb(163, 121, 240);
+    bottom: 0;
+    width: 100%;
+}
+
+.Video {
+    text-align: center;
+}
